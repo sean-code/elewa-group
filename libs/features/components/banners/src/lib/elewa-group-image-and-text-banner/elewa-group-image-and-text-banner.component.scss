@@ -1,0 +1,29 @@
+.container {
+    background-color: #ececec;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 5%;
+    margin-left: 20%;
+  }
+  img {
+    max-height: 80%;
+    border-radius: 2%;
+    width: 90%;
+  }
+  .image {
+    flex-basis: 40%;
+    width: 20%;
+    padding: 3%;
+  }
+
+  .text h1{
+    font-family: var(--elewa-group-website-dmsans-regular);
+    font-weight: 500;
+  }
+
+  .text p{
+    font-family: var(--elewa-group-website-dmsans-regular);
+    font-weight: 200;
+    padding: auto;
+  }
