@@ -25,3 +25,18 @@
     font-weight: 200;
     padding: auto;
   }
+
+.section2{
+  border-radius: 2%;
+  // background-color: black;
+}
+
+.container2{
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 5%;
+  margin-left: 20%;
+  box-shadow: 0 7px 4px;
+  border-radius: 20px;
+}
